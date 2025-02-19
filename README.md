@@ -1,8 +1,9 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/oOSTMjjq)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=18274847)
 # crowdsourcing-mini-project
 
 ## To compile code
-All code must be compiled before you can run it.  To compile means that you are converting your C++ code into a language that the computer can understand (e.g., binary).  To compile C++ code, run the following command in a terminal:
-```
+All code must be compiled before you can run it
 g++ fileName.cpp -o outFileName
 ```
 This tells the C++ compiler to compile your file named `fileName.cpp`, and output it (`-o`) as a file named `outFileName`.
@@ -94,3 +95,5 @@ If you finish early, then try to implement these other program functionality
 * Turn your program into a menu based program, where the user can enter the option they want to do (e.g,. add a song, search for a song, display all data, remove a song)
     * Allow for searching of a song by title; display the information of the found song, or a message that the song could not be found
     * Remove a song by title
+.  To compile means that you are converting your C++ code into a language that the computer can understand (e.g., binary).  To compile C++ code, run the following command in a terminal:
+```
