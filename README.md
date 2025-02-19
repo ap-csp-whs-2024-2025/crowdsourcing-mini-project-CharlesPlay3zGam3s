@@ -3,8 +3,7 @@
 # crowdsourcing-mini-project
 
 ## To compile code
-All code must be compiled before you can run it.  To compile means that you are converting your C++ code into a language that the computer can understand (e.g., binary).  To compile C++ code, run the following command in a terminal:
-```
+All code must be compiled before you can run it
 g++ fileName.cpp -o outFileName
 ```
 This tells the C++ compiler to compile your file named `fileName.cpp`, and output it (`-o`) as a file named `outFileName`.
@@ -96,3 +95,5 @@ If you finish early, then try to implement these other program functionality
 * Turn your program into a menu based program, where the user can enter the option they want to do (e.g,. add a song, search for a song, display all data, remove a song)
     * Allow for searching of a song by title; display the information of the found song, or a message that the song could not be found
     * Remove a song by title
+.  To compile means that you are converting your C++ code into a language that the computer can understand (e.g., binary).  To compile C++ code, run the following command in a terminal:
+```
